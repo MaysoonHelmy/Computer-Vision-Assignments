@@ -1,0 +1,8 @@
+names:
+- WBC
+- RBC
+- Platelets
+nc: 3
+path: yolo_dataset
+train: train/images
+val: val/images
